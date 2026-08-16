@@ -1,4 +1,4 @@
-# Concert & Festival Finder
+# Festivo
 
 A React + JavaScript single-page app for browsing live concerts and festivals — search, filter by genre/city/type, and view event details in a modal. Styled as gig posters and ticket stubs.
 
